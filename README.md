@@ -24,4 +24,11 @@ _JavaScript_: JavaScript is used to handle the interactivity of the application,
 **Usage**
 
 Clone or download the project repository to your local machine.
-Open the index.html file in your preferred web browser.
+Open the index.html file in your preferred web browser.Contributions
+Contributions to this project are welcome. If you have any ideas for improvements or feature additions, please submit a pull request.
+
+**License**
+This project is open-source and available under the MIT License.
+
+Enjoy using the ToDo application and stay organized!
+
