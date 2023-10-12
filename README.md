@@ -6,11 +6,11 @@ This ToDo application is a simple web-based task management tool built using HTM
 
 _Create Tasks_: You can add new tasks by entering a task description and clicking the "Add" button.
 
-_Delete Tasks_: Remove tasks from your list by clicking the "Delete" button next to each task.
+_Delete Tasks_: Remove tasks from your list by clicking the "Delete" icon next to each task.
 
 _Mark Tasks as Completed_: You can mark a task as completed by clicking the checkbox beside the task. Completed tasks will be visually differentiated from pending ones.
 
-_Clear Completed Tasks_: Easily remove completed tasks from the list by clicking the "Clear Completed" button.
+_Clear Completed Tasks_: Easily remove completed tasks from the list by clicking the delete icon.
 
 _Local Storage_: The application uses local storage to persist your tasks, allowing you to revisit the page and find your tasks saved.
 
